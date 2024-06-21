@@ -1,0 +1,97 @@
+body{
+     background-image: url("https://img.freepik.com/premium-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-52427.jpg");
+    background-attachment: fixed;
+    background-size: cover; 
+   
+   
+}
+.signup-box {
+    width: 400px;
+    height: 550px;
+    margin: 80px auto;
+   margin-bottom: 3rem;
+    overflow: hidden;
+    border: 0px solid #000;
+   background-color: rgba(0,0,0, 0.6);
+   border-radius: 50px;
+   box-shadow: 0px 11px 15px rgba(0,0,0, 2.9);
+
+}
+h1{
+    font-size: 2.3rem;
+    text-align: center;
+    color: black;
+
+}
+h4{
+    text-align: center;
+    font-size: 1.5rem;
+    font-style: italic;
+    color: black;
+    
+
+}
+form {
+    width: 300px;
+    margin-left: 50px;
+    gap: 100px;
+     margin-top: 40px; 
+     font-size: 20px;
+     font-weight: 900;
+     color: #090000;
+
+}
+form label {
+             display: flex;
+              margin-top: 20px; 
+             padding: 14px  16px;
+             
+
+        
+}
+form input{
+            width: 100%;
+            padding: 9px;
+            border: none;
+            border: 1px solid;
+            border-radius: 6px;
+            outline: none;
+            color: black;
+
+
+}
+input[type="button"] {
+    width: 320px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    color: black;
+    font-size: 1.3rem;
+}
+p{
+    
+    text-align: center;
+    top: 0;
+    font-size: 20px;
+    color: rgb(19, 19, 19);
+
+}
+    
+p a{
+    color: rgb(1, 66, 66);
+
+}
+.para-2 {
+    text-align: center;
+    color: rgb(43, 1, 14);
+    font-size: 20px;
+    
+}
+.para-2 a{
+    color: rgb(55, 2, 1);
+
+}
+
+
+
